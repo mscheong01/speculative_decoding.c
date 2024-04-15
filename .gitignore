@@ -1,0 +1,6 @@
+.vscode
+*.dSYM
+
+*.o
+speculative_decoding
+models/
