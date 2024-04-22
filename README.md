@@ -1,7 +1,7 @@
 # speculative_decoding.c
 minimal C implementation of speculative decoding on llama2 model.
 
-Speculative decoding is a technique used to speed up the autoregressive inference using a lightweight draft model. This project demonstrates this approach with simple pure C code.
+Speculative decoding is a technique used to speed up autoregressive inference using a lightweight draft model. This project demonstrates this approach with simple pure C code.
 
 <p align="center">
   <img src="image.png" width="300" height="300" alt="specdec llama">
